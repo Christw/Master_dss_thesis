@@ -6,8 +6,8 @@ Hotel booking cancellation (Classification problem)
 
 ### Data
 #### Data Files
-* Hotel demand dataset[Hotel demand dataset]([https://pages.github.com/](https://www.sciencedirect.com/science/article/pii/S2352340918315191)) 
-* Historical forecasting weather data[Historical forecasting weather data]([https://pages.github.com/](https://www.worldweatheronline.com/weather-api/)) 
+* [Hotel demand dataset](https://www.sciencedirect.com/science/article/pii/S2352340918315191)
+* [Historical forecasting weather data](https://www.worldweatheronline.com/weather-api/)) 
 
 ### Topic
 Hotel Booking Cancellation Prediction: A Comparison Between Machine Learning Algorithms And Neural Networks
