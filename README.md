@@ -1,2 +1,5 @@
 # Master_dss_thesis
-Thesis
+
+### Problem
+Hotel booking cancellation (Classification problem)
+
